@@ -1,0 +1,13 @@
+heart_rate,oxygen_saturation,temperature,systolic_bp,diastolic_bp,respiratory_rate,risk_level
+72,98,98.6,120,80,16,Low
+75,97,98.4,118,78,15,Low
+68,99,98.2,115,75,14,Low
+80,96,98.7,125,82,17,Low
+77,98,98.5,122,80,16,Low
+85,95,99.0,130,85,18,Moderate
+90,94,99.2,135,88,19,Moderate
+88,93,99.1,138,90,20,Moderate
+95,92,99.5,145,92,21,High
+105,90,100.2,155,100,24,High
+110,88,101.0,165,105,26,High
+115,86,101.5,170,110,28,High
